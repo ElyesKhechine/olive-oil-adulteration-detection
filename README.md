@@ -6,11 +6,11 @@
 
 ## Introduction
 
-This project, conducted during my 4th Industrial Computing and Automation year at INSAT, focuses on developing a machine learning-based system for detecting and classifying olive oil adulteration. Leveraging various classifiers and data analysis techniques, the project aims to streamline the detection process in order to significantly reduce costs and time associated with chemical testing.
+This project focuses on developing a machine learning-based system for detecting and classifying olive oil adulteration. Leveraging various classifiers and data analysis techniques, the project aims to streamline the detection process in order to significantly reduce costs and time associated with chemical testing.
 
 ## Project Scope
 
-Commencing from April 30, 2023, to May 22, 2023, this project involved research, data analysis, and model training phases.
+Commencing from April 30, 2023, to May 22, 2023, this project was conducted during my 4th Industrial Computing and Automation year at INSAT. It involved research, data analysis, and model training phases.
 
 ## Technical Details
 
@@ -20,11 +20,11 @@ Commencing from April 30, 2023, to May 22, 2023, this project involved research,
 
 ## Project Presentation
 
-For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [Project Presentation](https://drive.google.com/file/d/1sXiKhs9uLC_w91K78CPZB5YnaYE1LkCq/view?usp=sharing).
+For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [project presentation](https://drive.google.com/file/d/1sXiKhs9uLC_w91K78CPZB5YnaYE1LkCq/view?usp=sharing).
 
-## Google Colab Link
+## Google Colab
 
-Access the project's Google Colab notebook for interactive exploration and experimentation: [Google Colab Link](https://colab.research.google.com/drive/14ditYbbdJTbYa0pQrcf2_TaJ7WKGiy3_).
+Access the project's [Google Colab](https://colab.research.google.com/drive/14ditYbbdJTbYa0pQrcf2_TaJ7WKGiy3_) notebook for interactive exploration and experimentation.
 
 ## Getting Started
 
